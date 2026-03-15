@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f0f0;
+    font-family: sans-serif;
+}
+
+#gameCanvas {
+    background-color: white;
+    border: 3px solid #333;
+    border-radius: 8px;
+    cursor: crosshair; /* Changes the mouse pointer to a cross */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
