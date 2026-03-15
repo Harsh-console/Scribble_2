@@ -16,10 +16,9 @@ body {
     background-color: white;
     border: 3px solid #333;
     border-radius: 8px;
-    cursor: crosshair; /* Changes the mouse pointer to a cross */
+    cursor: crosshair;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
-
 #clearDrawing { 
     position: absolute;
     left : 35vw;
@@ -37,12 +36,10 @@ body {
 #redButton {
     left : 46vw;
     top : 62vh;
-   
 }
 #greenButton {
     left : 51vw;
     top : 62vh;
-
 }
 #blueButton {
     left : 56vw;
@@ -52,12 +49,10 @@ body {
 #pinkButton {
     left : 46vw;
     top : 67vh;
-  
 }
 #blackButton {
     left : 51vw;
     top : 67vh;
-  
 }
 #yellowButton {
     left : 56vw;
